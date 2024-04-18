@@ -25,7 +25,7 @@ function Footer() {
               type="button"
               className="py-2 px-2 outline-none  text-lg hover:scale-[1.02] ease-in-out flex justify-center items-center  bg-cyan-500 hover:bg-blue-700 focus:ring-blue-500 focus:ring-offset-blue-200 text-white transition  duration-200 text-center  font-bold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg max-w-md"
             >
-              <a href="mailto:pku025200@gmail.com">
+              <a href="mailto:ravi253523@gmail.com">
                 Say Hello <span className="wave text-white">👋</span>
               </a>
             </button>
@@ -33,10 +33,10 @@ function Footer() {
           
           <div className="flex gap-5 justify-center items-center">
             <div className="text-white font-bold text-lg text-center">
-              &copy; Pushpendra 2023
+              &copy; Ravi 2024
             </div>
             <a
-              href="https://www.linkedin.com/in/pushpendra-aryan-b6231820b/"
+              href="https://www.linkedin.com/in/kr99ravi/"
               target="_blank"
               className="cursor-pointer"
             >
