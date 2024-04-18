@@ -25,7 +25,7 @@ function LandingNavbar() {
           className="mr-[10px] flex gap-4 justify-center items-center"
         >
           <a
-            href="https://github.com/Pushpendra9045/Algorithm-visualizer"
+            href="https://github.com/kr99ravi/Algorithm-Analyzer"
             className="bg-blue-600 text-white p-2 md:p-[6px] md:font-bold rounded-[5px] hover:scale-[1.03] ease-in-out duration-300 cursor-pointer"
           >
             Github Link
